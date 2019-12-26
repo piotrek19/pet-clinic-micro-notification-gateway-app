@@ -1,10 +1,10 @@
-package net.dzioba.petclinicmicro.petclinicmicronotificationgatewayapp;
+package net.dzioba.petclinicmicro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetClinicMicroNotificationGatewayAppApplicationTests {
+class PetClinicMicroNotificationGatewayApplicationIT {
 
     @Test
     void contextLoads() {
